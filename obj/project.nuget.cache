@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/DJYkJczWgwOxYzfg6+bgj2lw1HiE4teCgiVh1JXTMdteDux0ZcLIQB508ErXnQULLu/cPSMYJIV7uOhTw411Q==",
+  "dgSpecHash": "Q5VbMT+FOzlkF0ur4dzAFkL7LgFe0XJhCAzXxzqbfI0k8yGLVycpWHCXYIGNQ0xb9NNFOI78yKS/FwwYwrXkEg==",
   "success": true,
-  "projectFilePath": "/home/runner/CSharp/main.csproj",
+  "projectFilePath": "/home/runner/LINQPractice/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
